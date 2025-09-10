@@ -4,7 +4,11 @@
 
 #### Arquitetura:
 
+<div align="center">
+
 <img width="900" height="626" alt="image" src="https://github.com/user-attachments/assets/1c7cedab-26d5-4860-9414-f88b72dc165c" style="text-align: center;"/>
+
+</div>
 
 <br><br/>
 
